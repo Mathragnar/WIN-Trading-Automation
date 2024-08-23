@@ -100,9 +100,6 @@ Remember to review and adjust your Take Profit and Stop Loss values based on you
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is proprietary and confidential. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
-
 ## Disclaimer
 
 This trading system is for educational and research purposes only. Always understand the risks involved in algorithmic trading and use at your own risk.
